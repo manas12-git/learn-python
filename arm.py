@@ -15,6 +15,9 @@ def find_armstrom(num):
 
 
 
+
+
+
 num=int(input("enter your number"))
 
 res=find_armstrom(num)
